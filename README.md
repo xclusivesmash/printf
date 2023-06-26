@@ -2,6 +2,9 @@
 
 * Group project: weight 5.0
 
+### Demonstration
+![](https://github.com/xclusivesmash/printf/blob/master/demonstration.gif)
+<br>
 ### Requirements
 * Language(s): `C`
 * Operating system: `Ubuntu 20.04 LTS`
